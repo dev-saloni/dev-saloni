@@ -17,7 +17,7 @@ I enjoy the challenge of turning real-world problems into efficient, scalable so
 - 🤝 Open to collaborating on **Java, Python, or any web dev projects**
 - ⚡ Fun fact: I genuinely enjoy debugging — it feels like solving a mystery!
 - 💬 Pronouns: **She / Her**
-- 📬 Reach me at: **salonichakraborty@350gmail.com**
+- 📬 Reach me at: **salonichakraborty350@gmail.com**
 
 ---
 
@@ -42,7 +42,7 @@ I enjoy the challenge of turning real-world problems into efficient, scalable so
 
 <br/>
 
-**Tools & Platforms I use daily**
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -53,27 +53,11 @@ I enjoy the challenge of turning real-world problems into efficient, scalable so
 
 ---
 
-## 📊 My GitHub in Numbers
+## 📊 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-saloni&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-saloni&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-saloni&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=dev-saloni&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)
 
 </div>
 
@@ -107,13 +91,8 @@ I enjoy the challenge of turning real-world problems into efficient, scalable so
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salonichakraborty@350gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-saloni)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-saloni)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=dev-saloni&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salonichakraborty350@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-chakraborty-132ab7260/)
 
 </div>
 
